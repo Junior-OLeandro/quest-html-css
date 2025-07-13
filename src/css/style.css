@@ -52,6 +52,7 @@ body {
 .about .infos .btn-register {
     background-color: rgb(232, 232, 232);
     font-family: 'Poppins', sans-serif;
+    color: var(--primary-color);
     display: inline-block;
     font-size: 15px;
     padding: 20px 80px;
@@ -69,6 +70,7 @@ body {
     display: flex;
     justify-content: end;
     margin-right: 100px;
+    margin-bottom: 30px;
 }
 
 .footer .social {
